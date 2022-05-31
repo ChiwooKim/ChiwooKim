@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kcw0360)](https://solved.ac/kcw0360/)
+
 <!--
 **ChiwooKim/ChiwooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
