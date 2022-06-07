@@ -2,6 +2,8 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcw0360)](https://solved.ac/kcw0360)
 
+![Chiwoo's github stats](https://github-readme-stats.vercel.app/api?username=ChiwooKim&show_icons=true&theme=buefy)
+
 <!--
 **ChiwooKim/ChiwooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
